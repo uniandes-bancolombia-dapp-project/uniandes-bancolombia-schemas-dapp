@@ -26,7 +26,7 @@
             "@id":"vocab:documentNumber",
             "@type":"xsd:string"
           },
-          "birtDate":{
+          "birthDate":{
             "@id":"vocab:birthDate",
             "@type":"xsd:integer"
           },
