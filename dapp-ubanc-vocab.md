@@ -1,10 +1,10 @@
-#name
+# name
 Name of the user
-#documentType
+# documentType
 The valid document types are 'cc', 'ce', 'pp'
-#documentNumber
+# documentNumber
 The document number of the user
-#birthDate
+# birthDate
 The timestamp of the birthDate of the user
 # email
 Email of the user
