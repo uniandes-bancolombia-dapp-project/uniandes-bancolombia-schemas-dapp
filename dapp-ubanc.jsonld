@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "Ubanc": {
+        "@id": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.jsonld#ProofOfDaoLongevity",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/uniandes-bancolombia-dapp-project/uniandes-bancolombia-schemas-dapp/blob/main/dapp-ubanc-vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "email": {
+            "@id": "vocab:email",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    }
+  ]
+}
