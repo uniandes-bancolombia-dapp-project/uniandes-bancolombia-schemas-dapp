@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/uniandes-bancolombia-dapp-project/uniandes-bancolombia-schemas-dapp/main/dapp-ubanc.jsonld",
+        "jsonLdContext": "https://raw.githubusercontent.com/uniandes-bancolombia-dapp-project/uniandes-bancolombia-schemas-dapp/main/Udoc/dapp-Udoc.jsonld",
         "jsonSchema": "https://raw.githubusercontent.com/uniandes-bancolombia-dapp-project/uniandes-bancolombia-schemas-dapp/main/dapp-ubanc.json"
       }
     },
