@@ -1,5 +1,5 @@
 # documentId
-The document ID of the user.(int)
+The document ID of the user.(str)
 # creationDate
 Creation date of the document.(int)
 # description
