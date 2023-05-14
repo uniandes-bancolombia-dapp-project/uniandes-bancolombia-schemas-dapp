@@ -1,8 +1,8 @@
 # documentId
-The document ID of the user.
+The document ID of the user.(int)
 # creationDate
-Creation date of the document.
+Creation date of the document.(int)
 # description
-Short description of the document.
+Short description of the document.(str)
 # owner
-Boolean that describes if the claimant is the owner of the document.
+Boolean that describes if the claimant is the owner of the document.(bool)
