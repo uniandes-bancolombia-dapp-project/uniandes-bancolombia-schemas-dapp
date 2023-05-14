@@ -1,10 +1,8 @@
-# name
-Name of the user
-# documentType
-The valid document types are 'cc', 'ce', 'pp'
-# documentNumber
-The document number of the user
-# birthDate
-The timestamp of the birthDate of the user
-# email
-Email of the user
+# documentId
+The document ID of the user.
+# creationDate
+Creation date of the document.
+# description
+Short description of the document.
+# owner
+Boolean that describes if the claimant is the owner of the document.
