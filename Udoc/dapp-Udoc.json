@@ -118,7 +118,7 @@
             "format": "uri"
           },
           "documentId": {
-            "type": "string"
+            "type": "integer"
           },
           "creationDate": {
             "type": "integer"
