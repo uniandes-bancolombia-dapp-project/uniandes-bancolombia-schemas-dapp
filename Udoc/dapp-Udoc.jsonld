@@ -16,7 +16,7 @@
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "documentId":{
             "@id":"vocab:documentId",
-            "@type":"xsd:string"
+            "@type":"xsd:integer"
           },
           "creationDate":{
             "@id":"vocab:creationDate",
